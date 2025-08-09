@@ -1,0 +1,1 @@
+# Segmenta-o_Inteligente_de_Clientes_com_K-Means
